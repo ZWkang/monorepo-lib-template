@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.coim/zwkang/pkg-name.git"
+    "url": "git+https://github.coim/zwkang/monorepo-lib-template.git"
   },
-  "bugs": "https://github.coim/zwkang/pkg-name/issues",
+  "bugs": "https://github.coim/zwkang/monorepo-lib-template/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
