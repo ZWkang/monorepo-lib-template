@@ -15,6 +15,11 @@
 
 a simple description
 
+Inspired by
+
+- [antfu/starter-ts](https://github.com/antfu/starter-ts)
+- [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter)
+
 setup a default template to build your own tool, awesome !!
 
 find all pkg-name and replace them all!!
