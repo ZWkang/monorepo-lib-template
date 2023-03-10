@@ -1,5 +1,4 @@
 {
-  "name": "@pkg-name/monorepo",
   "private": true,
   "packageManager": "pnpm@7.9.0",
   "description": "> description:",
@@ -46,7 +45,7 @@
   },
   "scripts": {
     "changeset": "changeset",
-    "build": "pnpm --filter @zwkang-dev/* run build",
+    "build": "pnpm --filter @organize-name/* run build",
     "release:version": "changeset version",
     "release": "pnpm build && changeset publish",
     "update-deps": "pnpm update -i -r --latest",
@@ -54,8 +53,5 @@
     "setup": "pnpm install",
     "publish": "pnpm publish -r"
   },
-  "license": "MIT",
-  "dependencies": {
-    "inversify": "^6.0.1"
-  }
+  "license": "MIT"
 }
